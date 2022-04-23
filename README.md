@@ -18,6 +18,12 @@
   <a href="https://gitee.com/houbinbin">
     <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
   </a>
+  <a href="https://www.toutiao.com/article/7068870481121886720/">
+    <img src="https://img.shields.io/badge/📖%20头条地址-brightness.svg" />
+  </a>
+  <a href="https://www.zhihu.com/people/xi-jue-3-28/posts">
+    <img src="https://img.shields.io/badge/📖%20知乎地址-brightness.svg" />
+  </a>
 </p>
 
 <p align="center">我是 <a href="https://houbb.github.io/">老马啸西风<a>，期待与你的下次重逢。</p>
