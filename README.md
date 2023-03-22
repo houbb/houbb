@@ -29,7 +29,7 @@
 
 | 编号 | 名称 | 简介 | 标签 |
 |:----|:----|:----|:----|
-| 1 | [sensitive](https://github.com/houbb/sensitive) | 基于注解的 java 日志脱敏框架，更加优雅的日志打印 | 工具，日志 |
+| 1 | [sensitive](https://github.com/houbb/sensitive) | 基于注解的日志脱敏框架，更加优雅的日志打印 | 工具，日志 |
 | 2 | [auto-log](https://github.com/houbb/auto-log) | 日志自动输出 | 工具，日志 |
 | 3 | [heaven](https://github.com/houbb/heaven) | 收集开发中常用的工具类 | 工具 |
 | 4 | [resubmit](https://github.com/houbb/resubmit) | 防止重复提交框架 | 工具 |
@@ -37,8 +37,8 @@
 | 6 | [rate-limit](https://github.com/houbb/rate-limit) | 渐进式限流工具框架 | 工具 |
 | 7 | [lock](https://github.com/houbb/lock) | 开箱即用分布式锁 | 工具 |
 | 8 | [lombok-ex](https://github.com/houbb/lombok-ex) | 编译时注解框架，扩展 lombok | 工具 |
-| 9 | [csv](https://github.com/houbb/csv) | 基于CSV的读写工具 | 工具 |
-| 10 | [iexcel](https://github.com/houbb/iexcel) | 基于EXCEL的读写工具，避免OOM | 工具 |
+| 9 | [csv](https://github.com/houbb/csv) | CSV的读写工具 | 工具 |
+| 10 | [iexcel](https://github.com/houbb/iexcel) | EXCEL的读写工具，避免OOM | 工具 |
 | 11 | [leetcode](https://github.com/houbb/leetcode) | 力扣算法个人学习笔记 | 学习 |
 | 12 | [awesome-metaverse-zh](https://github.com/houbb/awesome-metaverse-zh) | 元宇宙精选 | 学习 |
 | 13 | [rpc](https://github.com/houbb/rpc) | 手写rpc框架 | 学习,中间件 |
