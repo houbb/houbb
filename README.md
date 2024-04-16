@@ -51,6 +51,7 @@
 | 19 | [jdbc-pool](https://github.com/houbb/jdbc-pool) | 手写数据库连接池实现 | 学习,中间件 |
 | 20 | [sisyphus](https://github.com/houbb/sisyphus) | 支持注解的重试框架 | 学习,中间件 |
 | 21 | [sandglass](https://github.com/houbb/sandglass) | 任务调度时间框架 | 学习,中间件 |
+| 31 | [minicat](https://github.com/houbb/minicat) | 简易版本 tomcat | 学习，中间件 |
 | 22 | [segment](https://github.com/houbb/segment) | 基于结巴的分词实现 | NLP |
 | 23 | [pinyin](https://github.com/houbb/pinyin) | 高性能中文转拼音工具 | NLP |
 | 24 | [opencc4j](https://github.com/houbb/opencc4j) | 中文繁简体转换 | NLP |
@@ -60,7 +61,6 @@
 | 28 | [word-cloud](https://github.com/houbb/word-cloud) | 好用的词云工具 | DOC |
 | 29 | [markdown-toc](https://github.com/houbb/markdown-toc) | 为文档生成目录 | DOC |
 | 30 | [idoc](https://github.com/houbb/idoc) | 项目自动生成文档 | DOC |
-| 31 | [metadata](https://github.com/houbb/metadata) | 数据库元数据表文档生成 | DOC |
 | 32 | [data-factory](https://github.com/houbb/data-factory) | 测试自动生成对象信息 | TEST |
 | 33 | [junitperf](https://github.com/houbb/junitperf) | 性能测试框架，测试报告生成 | TEST |
 | 34 | [houbb.github.io](https://github.com/houbb/houbb.github.io) | 个人博客 | 学习 |
