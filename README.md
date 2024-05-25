@@ -51,7 +51,6 @@
 | 19 | [jdbc-pool](https://github.com/houbb/jdbc-pool) | 手写数据库连接池实现 | 学习,中间件 |
 | 20 | [sisyphus](https://github.com/houbb/sisyphus) | 支持注解的重试框架 | 学习,中间件 |
 | 21 | [sandglass](https://github.com/houbb/sandglass) | 任务调度时间框架 | 学习,中间件 |
-| 31 | [minicat](https://github.com/houbb/minicat) | 简易版本 tomcat | 学习，中间件 |
 | 22 | [segment](https://github.com/houbb/segment) | 基于结巴的分词实现 | NLP |
 | 23 | [pinyin](https://github.com/houbb/pinyin) | 高性能中文转拼音工具 | NLP |
 | 24 | [opencc4j](https://github.com/houbb/opencc4j) | 中文繁简体转换 | NLP |
