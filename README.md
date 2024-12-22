@@ -6,6 +6,9 @@
 
 > [生态社群](https://mp.weixin.qq.com/s/rkSvXxiiLGjl3S-ZOZCr0Q)
 
+![公众号](WECHAT.png)
+
+
 <p align="center">
   <a href="https://www.jianshu.com/u/f151b42ebf74">
     <img src="https://img.shields.io/badge/📖%20简书地址-brightness.svg" />
@@ -27,6 +30,13 @@
   </a>
 </p>
 
+# 开源
+
+开源不易，如果项目对你有帮助，你可以请老马喝一杯奶茶。
+
+<img src="https://github.com/houbb/sensitive-word/raw/master/lmxxf_reword.png?raw=true" style="width: 300px; height: 200px;"/>
+
+## 项目
 
 | 编号 | 名称 | 简介 | 标签 |
 |:----|:----|:----|:----|
