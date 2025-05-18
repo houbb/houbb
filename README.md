@@ -40,6 +40,7 @@
 
 | 编号 | 名称 | 简介 | 标签 |
 |:----|:----|:----|:----|
+| 0 | [encryption-local](https://github.com/houbb/encryption-local)         | 离线加密机组件               | 工具，安全 |
 | 1 | [sensitive](https://github.com/houbb/sensitive) | 基于注解的日志脱敏框架，更加优雅的日志打印 | 工具，日志 |
 | 2 | [auto-log](https://github.com/houbb/auto-log) | 日志自动输出 | 工具，日志 |
 | 3 | [heaven](https://github.com/houbb/heaven) | 收集开发中常用的工具类 | 工具 |
