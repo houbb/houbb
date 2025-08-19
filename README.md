@@ -78,3 +78,7 @@
 | 35 | [houbb.github.io](https://github.com/houbb/houbb.github.io) | 个人博客 | 学习 |
 | 36 | [nginx4j](https://github.com/houbb/nginx4j) | nginx java 版本 | WEB 容器 |
 | 37 | [minicat](https://github.com/houbb/minicat) | 简易版本 tomcat | WEB 容器 |
+| 38 | [lmxxf-reading](https://github.com/houbb/lmxxf-reading) | 读书笔记 | 学习 |
+| 39 | [lmxxf-thinking](https://github.com/houbb/thinking) | 个人思考 | 学习 |
+| 40 | [leetcode](https://github.com/houbb/leetcode) | 力扣算法源码 | 学习 |
+| 41 | [leetcode-notes](https://github.com/houbb/leetcode-notes) | 力扣算法笔记 | 学习 |
