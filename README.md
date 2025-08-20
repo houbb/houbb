@@ -101,9 +101,10 @@
     <tr><td>36</td><td><a href="https://github.com/houbb/nginx4j">🖥 nginx4j</a></td><td>nginx java 版本</td><td>WEB 容器</td></tr>
     <tr><td>37</td><td><a href="https://github.com/houbb/minicat">🐱 minicat</a></td><td>简易版本 tomcat</td><td>WEB 容器</td></tr>
     <tr><td>38</td><td><a href="https://github.com/houbb/lmxxf-reading">📚 lmxxf-reading</a></td><td>读书笔记</td><td>学习</td></tr>
-    <tr><td>39</td><td><a href="https://github.com/houbb/thinking">💡 lmxxf-thinking</a></td><td>个人思考</td><td>学习</td></tr>
-    <tr><td>40</td><td><a href="https://github.com/houbb/leetcode">🧮 leetcode</a></td><td>力扣算法源码</td><td>学习</td></tr>
-    <tr><td>41</td><td><a href="https://github.com/houbb/leetcode-notes">📝 leetcode-notes</a></td><td>力扣算法笔记</td><td>学习</td></tr>
+    <tr><td>39</td><td><a href="https://github.com/houbb/lmxxf-thinking">💡 lmxxf-thinking</a></td><td>个人思考</td><td>学习</td></tr>
+    <tr><td>40</td><td><a href="https://github.com/houbb/lmxxf-it">💡 lmxxf-it</a></td><td>个人技术</td><td>学习</td></tr>
+    <tr><td>41</td><td><a href="https://github.com/houbb/leetcode">🧮 leetcode</a></td><td>力扣算法源码</td><td>学习</td></tr>
+    <tr><td>42</td><td><a href="https://github.com/houbb/leetcode-notes">📝 leetcode-notes</a></td><td>力扣算法笔记</td><td>学习</td></tr>
   </tbody>
 </table>
 </div>
