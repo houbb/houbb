@@ -37,7 +37,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 2em; margin: 2em 0;">
   <img src="lmxxf-wechat.jfif" alt="老马啸西风" style="border-radius: 20px; width: 160px; height: 150px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
   <img src="WECHAT.png" alt="公众号" style="border-radius: 20px; width: 320px; height: 150px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
-  <img src="https://github.com/houbb/sensitive-word/raw/master/lmxxf_reword.png?raw=true" alt="reword" style="border-radius: 20px; width: 180px; height: 150px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="https://github.com/houbb/sensitive-word/raw/master/lmxxf_reword.png?raw=true" alt="reword" style="border-radius: 20px; width: 160px; height: 150px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
 </div>
 
 
